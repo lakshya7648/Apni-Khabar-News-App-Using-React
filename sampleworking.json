@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+ "articles": [
+ {
+ "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "At least 15 killed and dozens injured in Pakistan train accident",
+            "description": "Several coaches of the Hazara Express overturned near the Sahara station in the south of the country.",
+            "url": "http://www.bbc.co.uk/news/world-asia-66421481",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B867/production/_130670274_de27.jpg",
+            "publishedAt": "2023-08-06T11:07:22.6420464Z",
+            "content": "At least 15 people have been killed and dozens injured when a train derailed in southern Pakistan, local media say. \r\nSeveral coaches of the Hazara Express overturned near Sahara railway station in N… [+970 chars]"
+        },
+ {
+ "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC Sport",
+            "title": "'It made my heart melt' - Biles in winning return",
+            "description": "Four-time Olympic champion Simone Biles wins the US Classic as she makes a triumphant return to gymnastics after a two-year break.",
+            "url": "http://www.bbc.co.uk/sport/gymnastics/66420361",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/00C4/production/_130669100_gettyimages-1594989745.jpg",
+            "publishedAt": "2023-08-06T06:22:21.4390078Z",
+            "content": "Simone Biles is the most decorated US gymnast of all-tme\r\nFour-time Olympic champion Simone Biles has made a triumphant return to gymnastics after a two-year break.\r\nThe 26-year-old American thrilled… [+2393 chars]"
+        },
+ {
+ "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "The remarkable recovery of Syria's earthquake baby",
+            "description": "Six months ago today, Afraa was pulled from rubble, still attached to her umbilical cord and barely alive.",
+            "url": "http://www.bbc.co.uk/news/world-middle-east-66398976",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B056/production/_130624154_afraapromo.jpg",
+            "publishedAt": "2023-08-06T04:37:15.8603603Z",
+            "content": "When Afraa was found in the rubble of a collapsed building in Syria, her umbilical cord was still attached to her mother, who had died just after giving birth. The video of the baby's rescue from the… [+5422 chars]"
+        },
+ {
+ "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Chatbots: Why does White House want hackers to trick AI?",
+            "description": "Google and Meta are among big tech companies who are letting hackers try to find flaws in their chatbots.",
+            "url": "http://www.bbc.co.uk/news/technology-66404069",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/211A/production/_130647480_index_whitehouse_hackers_976x549.png",
+            "publishedAt": "2023-08-06T00:37:16.4130845Z",
+            "content": "What happens when thousands of hackers gather in one city with the sole aim of trying to trick and find flaws in artificial intelligence (AI) models? That is what the White House wants to know. \r\nThi… [+4920 chars]"
+        },
+ {
+ "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ahead of Ohio abortion vote, Republicans try to change the rules",
+            "description": "Ohio looked ready to pass an abortion rights amendment. Then Republicans planned another vote.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-66375877",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FE70/production/_130663156_frank-index.jpg",
+            "publishedAt": "2023-08-06T00:22:16.8813948Z",
+            "content": "A pro-abortion referendum looked poised to win in the conservative state of Ohio this November. Now, Republican state legislators are accused of moving the goalposts. \r\nLast summer, just like every s… [+7447 chars]"
+        },
+ {
+ "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "MrBeast: How the world's biggest YouTuber made his millions",
+            "description": "Jimmy Donaldson is the biggest YouTuber in the world with 172 million subscribers - what makes him so popular?",
+            "url": "http://www.bbc.co.uk/news/technology-66372679",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17769/production/_130650169_gettyimages-1471344982.jpg",
+            "publishedAt": "2023-08-06T00:22:15.5848424Z",
+            "content": "Jimmy Donaldson, the person the online world knows as MrBeast, is the biggest YouTuber on the planet - and with that popularity comes large sums of money. \r\nThe 25-year-old has branched out from vide… [+6759 chars]"
+        },
+ {
+ "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Typhoon Doksuri: Alarming pictures show floods in China, Philippines",
+            "description": "The volume of rain over the past week has broken a 140-year-old record in China.",
+            "url": "http://www.bbc.co.uk/news/in-pictures-66400905",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10D8E/production/_130660096_a0e2d56a472b2564982e5570d8d13549e7944deb0_473_6411_36081000x563.jpg",
+            "publishedAt": "2023-08-05T23:37:15.9603873Z",
+            "content": "Storms bearing unusually torrential rain and ferocious winds this early in the north Pacific typhoon season have flooded large swathes of East Asia, with China among the countries worst hit.\r\nIn the … [+3009 chars]"
+        },
+ {
+ "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine war: The Russians hunting for cheap flats in occupied Mariupol",
+            "description": "Largely destroyed by Russian forces, Mariupol is now portrayed by Moscow as a desirable city.",
+            "url": "http://www.bbc.co.uk/news/world-66393949",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4D48/production/_130648791_microsoftteams-image.png",
+            "publishedAt": "2023-08-05T23:22:14.6940845Z",
+            "content": "It is one year since the Ukrainian city of Mariupol was largely destroyed by Russian forces and captured. \r\nIt is now being transformed and presented as a showcase for rule from Moscow - and some Rus… [+7108 chars]"
+        },
+ {
+ "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Donald Trump social media post flagged to judge as prosecutors seek order",
+            "description": "Prosecutors ask for limits on what Donald Trump is allowed to publicly say about the election fraud case.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-66417168",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A65A/production/_130668524_gettyimages-1576728868.jpg",
+            "publishedAt": "2023-08-05T23:07:18.7579103Z",
+            "content": "Prosecutors in Donald Trump's upcoming trial have asked for limits on what the ex-president can publicly say about the case, after he shared a threatening message online.\r\nIn a filing late on Friday … [+3302 chars]"
+        },
+ {
+ "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine war: Russia hits blood transfusion centre, says Zelensky",
+            "description": "People have been reportedly killed and wounded in the strike in north-eastern Ukraine, says the president.",
+            "url": "http://www.bbc.co.uk/news/world-europe-66419331",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12AC6/production/_130668467_kupiansk_zelensky.jpg",
+            "publishedAt": "2023-08-05T21:37:16.2730933Z",
+            "content": "A Russian guided air bomb has hit a blood transfusion centre in north-eastern Ukraine, killing and injuring people, Ukraine's president has said.\r\nVolodymyr Zelensky said rescuers were now trying to … [+1733 chars]"
+        }
+    ]
+}
